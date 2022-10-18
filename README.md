@@ -4,4 +4,4 @@
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/husbandoo/KaguyaProbot-kaguya) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DSS18T/eat_pussy)
